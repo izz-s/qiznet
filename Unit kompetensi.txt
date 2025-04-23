@@ -1,0 +1,33 @@
+Unit kompetensi :
+1.implementasi user interface 
+2.menerapkan perintah eksekusi bahasa pemrograman berbasis teks, grafik, dan multimedia
+3.menyusun fungsi file atau sumberdaya pemrograman yang lain dalam organisasi yang rapih
+4.menulis kode sesuai prinsip guidelines dan bestpractices 
+5.implementasi pemograman terstruktur 
+6.menggunakan library atau komponen (praxxd?)
+
+Contoh tugas demonstrasi:
+Membuat sebuah website company profile, harus ada fitur fitur yang disebutkan
+Misalkan :
+Anda sebagai web developer pt.edukasi coreid pada alamat xxx diminta untuk membuat website dan mengimplementasikan sebuah website dinamis beserta halaman konten manajemen berdasarkan permintaan dari pt.solusi koneksi anda
+
+Fitur wajib :
+-halaman home/utama
+-profil perusahaan
+-produk atau layanan
+-artikel/informasi terkini
+-galeri kegiatan/dokumentasi kegiatan
+-kontak kami
+(Boleh ditambahkan dan disesuaikan tetapi tidak boleh mengurangi fitur wajib)
+
+Seluruh halaman harus saling terhubung satu sama lain melalui navigasi menu
+
+Aset kebutuhan gambar dapat diambil dari situs yang menyediakan(bebas)
+
+Halaman produk, artikel, dan galeri harus bersifat dinamis(bisa diupdate/crud)
+
+Halaman profil bersifat statis
+
+File yang diserahkan harus disusun rapih
+
+Waktu ujian 45 menit, waktu persiapan 15 menit
